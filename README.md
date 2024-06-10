@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on 3d printing 
 - 📫 How to reach me send me a dm on instagram @bernd.tomat or send an email to berndmaes@gmail.com
 - 😄 Pronouns: he
-- ⚡ Fun fact: 
+- ⚡ Fun fact: layers 
 
 <!---
 maesbernd/maesbernd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
